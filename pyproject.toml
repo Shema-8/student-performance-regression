@@ -12,6 +12,9 @@ dependencies = [
     "numpy>=1.26.0",
     "joblib>=1.4.0",
     "python-multipart>=0.0.9",
+    "matplotlib>=3.10.9",
+    "seaborn>=0.13.2",
+    "ipykernel>=7.3.0",
 ]
 
 [project.optional-dependencies]
